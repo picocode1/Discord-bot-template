@@ -17,7 +17,7 @@ Packages:
 npm i discord.js
 ```
 
-## Example module
+## Example command module
 
 ```js
 module.exports.run = async (Discord, command, args, channel, message) => {
